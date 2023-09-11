@@ -244,7 +244,7 @@ $conn->close();
             <div class="row">
               <div class="col-md-4">
                   <div class="form-group">
-                    <input type="text" name="AkadNikah" class="form-control" id="AkadNikah" placeholder="Dari jam berapa sampai jam berapa" require>
+                    <input type="time" name="AkadNikah" class="form-control" id="AkadNikah" placeholder="Dari jam berapa sampai jam berapa" require>
                   </div>
               </div>
               <div class="col-md-4">
@@ -254,7 +254,7 @@ $conn->close();
               </div>
               <div class="col-md-4">
                   <div class="form-group">
-                    <input type="text" name="Resepsi" class="form-control" id="Resepsi" placeholder="Dari jam berapa sampai jam berapa" require>
+                    <input type="time" name="Resepsi" class="form-control" id="Resepsi" placeholder="Dari jam berapa sampai jam berapa" require>
                   </div>
               </div>
             </div><hr>

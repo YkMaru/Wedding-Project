@@ -25,7 +25,7 @@ if (@$_SESSION['username'])
   <link rel="icon" type="image/png" href="../assets2/assets/img/favicon.png">
   <link rel="stylesheet" href="../assets/login/css/style.css">
   <title>
-    Yk•Maru
+    Login
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -88,9 +88,9 @@ if (@$_SESSION['username'])
             </div>
         
             <div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 end-0 text-center justify-content-center flex-column">
-              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden" style="background-image: url('../wedding/images/Kira&Lacus.jpg');
-          background-size: cover;">
-                <h4 class="mt-5 text-white font-weight-bolder position-relative">"Welcome Lover`s"</h4>
+              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden" style="background-image: url('../wedding/images/nikita-shirokov-qGgjalogCdE-unsplash.jpg');
+                background-size: cover;">
+                <h4 class="mt-5 text-white font-weight-bolder position-top">"Welcome Lover`s"</h4>
                 <p class="text-white position-relative">To Wedding At Your Servise.</p>
               </div>
             </div>

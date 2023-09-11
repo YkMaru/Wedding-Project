@@ -81,7 +81,7 @@
             </div>
         
             <div class="col-6 d-lg-flex d-none h-100 my-auto pe-0 position-absolute top-0 end-0 text-center justify-content-center flex-column">
-              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden" style="background-image: url('../wedding/images/Kira&Lacus.jpg');
+              <div class="position-relative bg-gradient-primary h-100 m-3 px-7 border-radius-lg d-flex flex-column justify-content-center overflow-hidden" style="background-image: url('../wedding/images/elvis-bekmanis-WJc87MVcDaA-unsplash.jpg');
           background-size: cover;">
                 <h4 class="mt-5 text-white font-weight-bolder position-relative">"Welcome Lover`s"</h4>
                 <p class="text-white position-relative">To Wedding At Your Servise.</p>
